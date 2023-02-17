@@ -18,7 +18,7 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">   
 </div>
-  ![Snake animation](https://github.com/vynijales/vynijales/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/vynijales/vynijales/blob/output/github-contribution-grid-snake.gif)
 </div>
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=vynijales&repo=vynijales&theme=react)](https://github.com/vynijales/vynijales)
